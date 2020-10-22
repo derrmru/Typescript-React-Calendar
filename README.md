@@ -15,8 +15,10 @@ React-only Calendar Component using Typescript superset.
  - date: the initial or seleted date.
  - updateCalendar: the function to be created by you in your parent component to handle a date selection. It is assumed you will have your own needs and these will require the Selected Date and Calendar Name as parameters.
 
+ 2. Obviously you will need React in your dependencies.
+
 ## Notes
 
 No frills component. Easy to include and update as needed for your project.
 
-Obviously you will need React in your dependencies. Enjoy!
+Enjoy!
