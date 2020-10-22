@@ -2,6 +2,8 @@
 
 React-only Calendar Component using Typescript superset.
 
+![Calendar Screenshot](./screenshot.png)
+
 ## Installation
 
  - Download Calendar.tsx and Calendar.css files.
