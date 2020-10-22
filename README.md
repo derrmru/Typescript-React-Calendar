@@ -21,6 +21,6 @@ React-only Calendar Component using Typescript superset.
 
 ## Notes
 
-No frills component. Easy to include and update as needed for your project.
+No frills component. Easy to include, style and adapt as needed for your project.
 
 Enjoy!
